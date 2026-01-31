@@ -1,4 +1,4 @@
-# DS Phase 2 Project
+# Phase 2 Project (DS)
 # Group 3
 
 ## Project Overview
