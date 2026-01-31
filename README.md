@@ -1,1 +1,2 @@
-# DS-Phase_2-Group_3-Project
+# DS Phase 2 Project
+# Group 3
