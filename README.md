@@ -1,6 +1,6 @@
 # Phase 2 Project (DS)
 # Group 3
-## This README provides a comprehensive overview of the Strategic Film Selection Analysis project, incorporating details from the group's presentation and technical notebook.
+## This README provides a comprehensive overview of the Strategic Film Selection Analysis project, incorporating details from the group's no-technical presentation and technical notebook.
 
 ## **1. Project Overview**
 This project aims to provide actionable insights for a company launching a new movie studio. By analyzing historical box office performance, the study identifies which types of films yield the highest revenue and return on investment (ROI) to guide production decisions.
