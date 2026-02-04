@@ -47,7 +47,7 @@ Key features analyzed include:
 ### 2. Production Budget vs ROI & Net Profit
 #### How does the production budget impact profitability?
 
-![alt text](image-4.png)
+![alt text](image-1.png)
 
 **Key Finding**
 - _Movies that dominate high profits do not dominate high ROI. This suggests that large studios benefit from scale, while small studios achieve efficiency with low-budget  genre films._
@@ -70,7 +70,7 @@ Key features analyzed include:
 - _Nine of the big spenders make it into the high earners list._
 - _Buena Vista (BV) dominate box office revenue, reflecting the advantage of established franchises._
 
-#### For a dynamic exploration of these metrics, visit the Interactive Analysis Dashboard [here](https://public.tableau.com/views/group3phase2project/Story1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### **For a dynamic exploration of these metrics, visit the Interactive Analysis Dashboard [here](https://public.tableau.com/views/group3phase2project/Story1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
 ## **Recommendations and Conclusion**
