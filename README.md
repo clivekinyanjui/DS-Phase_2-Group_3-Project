@@ -55,7 +55,7 @@ Key features analyzed include:
 ### 3. IMDB Rating vs Net Profit
 #### What is the relationship between critical acclaim (IMDB ratings) and box office success?
 
-![alt text](image-2.png)
+![alt text](image-4.png)
 
 **Key Findings**
 - _Even highly profitable films fall outside of IMDB’s highest ratings._
