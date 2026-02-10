@@ -35,8 +35,8 @@ Key features analyzed include:
 - **Return on Investment (ROI):** Calculated as $(Worldwide Gross - Budget) / Budget$.
 - **genres:** Exploded categories to analyze performance at the individual genre level.
 
-## **Visualisations**
-### 1. Net Profit & Return on Investment (ROI) by Genre
+## **4. Visualisations**
+### (i). Net Profit & Return on Investment (ROI) by Genre
 #### Which genres generate the highest Revenue and ROI?
 
 ![alt text](README_Visuals/image.png)
@@ -44,7 +44,7 @@ Key features analyzed include:
 **Key Finding:**  
 - _While Action movies generate the highest median net profit, Horror and Mystery films lead in ROI due to lower production costs._
 
-### 2. Production Budget vs ROI & Net Profit
+### (ii). Production Budget vs ROI & Net Profit
 #### How does the production budget impact profitability?
 
 ![alt text](README_Visuals/image-1.png)
@@ -52,7 +52,7 @@ Key features analyzed include:
 **Key Finding**
 - _Movies that dominate high profits do not dominate high ROI. This suggests that large studios benefit from scale, while small studios achieve efficiency with low-budget  genre films._
 
-### 3. IMDB Rating vs Net Profit
+### (iii). IMDB Rating vs Net Profit
 #### What is the relationship between critical acclaim (IMDB ratings) and box office success?
 
 ![alt text](README_Visuals/image-4.png)
@@ -61,7 +61,7 @@ Key features analyzed include:
 - _Even highly profitable films fall outside of IMDB’s highest ratings._
 - _Critical acclaim is not a prerequisite for box office success, however successful movies clustered within the range 6.5 - 8.5_
 
-### 4. The big Spenders and the high earning studios
+### (iv). The big Spenders and the high earning studios
 #### Which established studios currently dominate the market?
 
 ![alt text](README_Visuals/image-3.png)
