@@ -1,5 +1,5 @@
-# Box Office Data Analysis Project (DS)
-# Group 3
+# Box Office Data Analysis
+## **Phase 2, Group 3**
 ## This README provides a comprehensive overview of the Strategic Film Selection Analysis project, incorporating details from the group's non-technical presentation and technical notebook.
 
 ## **1. Project Overview**
